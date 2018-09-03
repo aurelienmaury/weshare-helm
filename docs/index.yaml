@@ -3,11 +3,11 @@ entries:
   supermario:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-09-03T11:45:47.468444741+02:00
+    created: 2018-09-03T11:48:12.331794246+02:00
     description: A Helm chart for Kubernetes
     digest: 95417bad9fc9b9b97f6356a65b90c39f9786424a8cac50e87ae4a84790d6e625
     name: supermario
     urls:
-    - https://aurelienmaury/weshare-helm/supermario-0.1.0.tgz
+    - https://aurelienmaury.gcloud.github.io/weshare-helm/supermario-0.1.0.tgz
     version: 0.1.0
-generated: 2018-09-03T11:45:47.468046884+02:00
+generated: 2018-09-03T11:48:12.330300466+02:00
